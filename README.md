@@ -1,2 +1,0 @@
-# ReactContentEditor
-Created with CodeSandbox
